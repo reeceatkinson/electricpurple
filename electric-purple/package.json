@@ -6,7 +6,7 @@
     "license": "MIT",
     "publisher": "reece",
     "author": "Reece Atkinson",
-    "icons": "",
+    "icons": "icon.jpg",
     "engines": {
         "vscode": "^1.63.0"
     },
