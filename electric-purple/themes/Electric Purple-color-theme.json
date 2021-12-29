@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./purple.tmTheme",
+	"colors": {
+		"editorCursor.foreground": "#aeafad",
+		"editor.selectionBackground": "#264f78",
+		"editor.lineHighlightBackground": "#ffffff0A",
+		"editor.foreground": "#d4d4d4",
+		"editor.background": "#001060",
+		"editorWhitespace.foreground": "#e3e4e229"
+	},
+	"name": "Electric Purple"
+}
