@@ -4,7 +4,7 @@
     "description": "A purple that will brighten up and add colour to your VS Code environment.",
     "version": "0.0.1",
     "license": "MIT",
-    "publisher": "Reece Atkinson",
+    "publisher": "reece",
     "author": "Reece Atkinson",
     "engines": {
         "vscode": "^1.63.0"
