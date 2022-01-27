@@ -6,7 +6,11 @@
     "license": "MIT",
     "publisher": "reece",
     "author": "Reece Atkinson",
-    "icons": "./icon.jpg",
+    "icon": "icon.png",
+    "galleryBanner": {
+      "color": "#C80000",
+      "theme": "dark"
+    },
     "changelog": "./changelog.md",
     "engines": {
         "vscode": "^1.63.0"
