@@ -1,4 +1,7 @@
 # Changelog
+## 1.0.1
+- New banner colour
+- Icon added
 
 ## 0.0.9
 - Icon added

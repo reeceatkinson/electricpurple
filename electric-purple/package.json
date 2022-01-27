@@ -2,13 +2,13 @@
     "name": "electric-purple",
     "displayName": "Electric Purple",
     "description": "A purple that will brighten up and add colour to your VS Code environment.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "license": "MIT",
     "publisher": "reece",
     "author": "Reece Atkinson",
     "icon": "icon.png",
     "galleryBanner": {
-      "color": "#C80000",
+      "color": "#2044fb",
       "theme": "dark"
     },
     "changelog": "./changelog.md",
