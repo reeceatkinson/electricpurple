@@ -1,11 +1,21 @@
+# Electric Purple Theme
 
-![Logo](https://firebasestorage.googleapis.com/v0/b/croftonapp.appspot.com/o/images%2F3F8A3570-C714-40CF-9184-F49518494F92.jpeg?alt=media&token=6a76e4bf-a0a9-47b3-9a4d-ba46997f510f)
+## Preview
+![image](https://user-images.githubusercontent.com/78908925/156876957-54af3c90-651c-4bd6-ae3d-3a0a77577b3a.png)
 
+## Contributing to the theme
+The theme is open sourced on GitHub so you can edit the code freely. https://github.com/reeceatkinson/electricpurple
 
-# Electric Purple
+## Submitting an issue
+You can submit an issue by pressing **Issues on the GitHub Repo** or use the link here: https://github.com/reeceatkinson/electricpurple/issues/new
 
-Electric Purple is a colour theme for VS Code that will brighten up your dev environment.
+## Previewing the theme
+You can preview the theme using vscode.dev (https://vscode.dev/theme/reece.electric-purple/Electric%20Purple)
 
-From time to time I will publish updates which can be found in the "Changelog Section"
+## How to install
+1. Open the Extensions sidebar panel in VS Code. View → Extensions
+2. Search for Electric Purple
+3. Click Install
+4. When prompted, select Electric Purple as the color theme
 
-You can share the theme with the link: https://reeceatkinson.github.io/electricpurple-website
+In case of not being prompted to select a Colour Theme upon installing, go to the menu bar and select: Code (File, on Windows) > Preferences > Color Theme > Electric Purple. Alternatively, you can use the shortcut ⌘/Ctrl + K > ⌘/Ctrl + T and select Electric Purple.
