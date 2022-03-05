@@ -3,6 +3,9 @@
 ## Preview
 ![image](https://user-images.githubusercontent.com/78908925/156876957-54af3c90-651c-4bd6-ae3d-3a0a77577b3a.png)
 
+## Contributing to the theme
+The theme is open sourced on GitHub so you can edit the code freely. https://github.com/reeceatkinson/electricpurple
+
 ## Submitting an issue
 You can submit an issue by pressing **Issues on the GitHub Repo** or use the link here: https://github.com/reeceatkinson/electricpurple/issues/new
 
